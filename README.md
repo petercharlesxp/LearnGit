@@ -9,9 +9,9 @@ mkdir (directory name) <br>
 
 ## git
 status <br>
-- information about repositry
+- information about repositry <br>
 add (file name) <br>
-- prepare files for commit
+- prepare files for commit <br>
 commit -m "Good commit messages" <br>
 - save added files <br>
 - -m: add message about the commit <br>
