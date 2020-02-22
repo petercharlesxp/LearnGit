@@ -19,3 +19,4 @@ push <br>
 -- publish - share <br>
 log <br>
 - general log for all the commit
+- to quit from log , have to press "q" <br>
